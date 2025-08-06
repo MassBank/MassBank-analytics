@@ -9,3 +9,13 @@
 ```
 docker run -p 8888:8888 -v $PWD:/home/jovyan/work quay.io/jupyter/scipy-notebook
 ```
+
+## GitHub fine-grained access token
+
+For the GitHub analytics, you need a file `github_token.txt` with a
+fine-grained access token to MassBank-data with the following read-only
+permissions:
+
+- Administration (Repository creation, deletion, settings, teams, and collaborators.)
+- Commit statuses (Commit statuses.)
+- Metadata (Search repositories, list collaborators, and access repository metadata)

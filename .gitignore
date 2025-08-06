@@ -1,5 +1,8 @@
+# Never every place your token into git:
+github_token.txt
+
 # Editor backup files
 *~
-#Jupyter temp files
+# Jupyter temp files
 .ipynb_checkpoints/
 
