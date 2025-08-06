@@ -1,0 +1,5 @@
+# Editor backup files
+*~
+#Jupyter temp files
+.ipynb_checkpoints/
+
