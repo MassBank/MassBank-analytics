@@ -4,7 +4,7 @@
 
 [https://mybinder.org/v2/gh/MassBank/MassBank-analytics/HEAD?urlpath=%2Fdoc%2Ftree%2Frecord_grow.ipynb](https://mybinder.org/v2/gh/MassBank/MassBank-analytics/HEAD?urlpath=%2Fdoc%2Ftree%2Frecord_grow.ipynb)
 
-[https://hub.nfdi-jupyter.de/v2/gh/MassBank/MassBank-analytics/HEAD](https://hub.nfdi-jupyter.de/v2/gh/MassBank/MassBank-analytics/HEAD)
+[https://hub.nfdi-jupyter.de/v2/gh/MassBank/MassBank-analytics/HEAD](https://hub.nfdi-jupyter.de/v2/gh/MassBank/MassBank-analytics/HEAD?urlpath=%2Flab%2Ftree%2Frecord_grow.ipynb)
 
 ## running in Docker locally
 
