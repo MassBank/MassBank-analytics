@@ -6,3 +6,4 @@ github_token.txt
 # Jupyter temp files
 .ipynb_checkpoints/
 
+temp-data/
